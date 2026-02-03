@@ -1,9 +1,8 @@
-# 💫 About Me:
-🔭 I’m currently working on:<br>A Deep Learning project focusing on [NLP using RoBERTa pretrained model].Building advanced ML and DL models.<br><br>
-👯 I’m looking to collaborate on:<br>Innovative Deep Learning projects.<br>Applications combining Flutter and Machine Learning models.<br><br>
-🤝 I’m looking for help with:<br>Optimizing ML and DL models.<br>Deploying models for mobile or web applications.<br><br>
-🌱 I’m currently learning:<br>Advanced Machine Learning and Deep Learning techniques.<br>End-to-end deployment workflows for AI models (including CI/CD).<br><br>💬 Ask me about:<br>Flutter development and building mobile apps.<br>Backend frameworks like Node.js and deploying APIs.<br>Machine Learning model implementation in Python.<br><br>
-⚡ Fun fact:<br>Did you know that combining AI with mobile development can create groundbreaking apps? That’s my current passion!
+# About Me:
+I’m currently working on:<br>A Deep Learning project focusing on [NLP using RoBERTa pretrained model].Building advanced ML and DL models.<br><br>
+I’m looking to collaborate on:<br>Innovative Deep Learning projects.<br>Applications combining Flutter and Machine Learning models.<br><br>
+I’m looking for help with:<br>Optimizing ML and DL models.<br>Deploying models for mobile or web applications.<br><br>
+I’m currently learning:<br>Advanced Machine Learning and Deep Learning techniques.<br>End-to-end deployment workflows for AI models (including CI/CD).<br><br>💬 Ask me about:<br>Flutter development and building mobile apps.<br>Backend frameworks like Node.js and deploying APIs.<br>Machine Learning model implementation in Python.<br><br>
 
 
 ## 🌐 Socials:
